@@ -4,7 +4,7 @@ filelock==3.8.0
 huggingface-hub==0.10.0
 idna==3.4
 importlib-metadata==5.0.0
-numpy==1.21.6
+numpy==1.22.0
 packaging==21.3
 Pillow==9.2.0
 pyparsing==3.0.9
