@@ -6,7 +6,7 @@ idna==3.4
 importlib-metadata==5.0.0
 numpy==1.22
 packaging==21.3
-Pillow==9.2.0
+Pillow==9.3.0
 pyparsing==3.0.9
 PyYAML==6.0
 regex==2022.9.13
