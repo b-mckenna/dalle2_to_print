@@ -1,4 +1,4 @@
-certifi==2022.9.24
+certifi==2022.12.7
 charset-normalizer==2.1.1
 filelock==3.8.0
 huggingface-hub==0.10.0
